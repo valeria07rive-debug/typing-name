@@ -34,7 +34,8 @@ accuracy = (correctas / total) * 100
 
 print("Palabras correctas:", correctas)
 print("Errores:", errores)
-print(f"Exactitud: {accuracy:.2f}%")
+print(f"Exactitud final: {accuracy:.2f}%")
+
 
 
 
